@@ -4,7 +4,7 @@ Synthesis - Smart (Undercollateralised) Loans for trading on the Synthetix platf
 
 - <a href="https://xxx.now.sh" target="_blank">Live demo</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s5Ef6Pg2evA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Application walk-through](https://img.youtube.com/vi/s5Ef6Pg2evA/0.jpg)](https://www.youtube.com/watch?v=s5Ef6Pg2evA)
 
 
 # Building
