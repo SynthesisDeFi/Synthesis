@@ -26,7 +26,7 @@
 
 
       <div class="md-toolbar-section-end" >
-        <a href="https://github.com/BlazarDeFi/blazar" target="_blank" style="color: white;">
+        <a href="https://github.com/SynthesisDeFi/Synthesis" target="_blank" style="color: white;">
           <i class="fa fa-github" style="font-size:32px"></i>
         </a>
       </div>
