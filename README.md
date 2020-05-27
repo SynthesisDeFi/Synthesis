@@ -8,7 +8,7 @@ This application was built for the New York Blockchain Week: Open Synthetix Chal
 
 - <a href="https://www.youtube.com/watch?v=s5Ef6Pg2evA" target="_blank">Walk-through the app with voice over</a>
 
-[![Application walk-through](https://img.youtube.com/vi/s5Ef6Pg2evA/0.jpg)](https://www.youtube.com/watch?v=s5Ef6Pg2evA){:target="_blank"}
+[![Application walk-through](https://img.youtube.com/vi/s5Ef6Pg2evA/0.jpg)](https://www.youtube.com/watch?v=s5Ef6Pg2evA)
 
 - <a href="https://docs.google.com/presentation/d/1ikE7PaTvIZkvBDb_PhyhIuOTls4SXlldJPXhEgUqZYM/edit?usp=sharing" target="_blank">Slides explaining the concept</a>
 
