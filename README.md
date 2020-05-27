@@ -2,11 +2,13 @@
 
 Synthesis - Smart (Undercollateralised) Loans for trading on the Synthetix platform
 
+This application was built for the New York Blockchain Week: Open Synthetix Challenge
+
 - <a href="https://xxx.now.sh" target="_blank">Live demo</a>
 
 - <a href="https://www.youtube.com/watch?v=s5Ef6Pg2evA" target="_blank">Walk-through with voice over</a>
 
-[![Application walk-through](https://img.youtube.com/vi/s5Ef6Pg2evA/0.jpg)](https://www.youtube.com/watch?v=s5Ef6Pg2evA)
+[![Application walk-through](https://img.youtube.com/vi/s5Ef6Pg2evA/0.jpg)](https://www.youtube.com/watch?v=s5Ef6Pg2evA){:target="_blank"}
 
 - <a href="https://docs.google.com/presentation/d/1ikE7PaTvIZkvBDb_PhyhIuOTls4SXlldJPXhEgUqZYM/edit?usp=sharing" target="_blank">Slides explaining the concept</a>
 
