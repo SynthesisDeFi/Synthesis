@@ -4,7 +4,7 @@ Synthesis - Smart (Undercollateralised) Loans for trading on the Synthetix platf
 
 This application was built for the New York Blockchain Week: Open Synthetix Challenge
 
-- <a href="https://synthesis.kubawo.now.sh/" target="_blank">Live demo</a>
+- <a href="https://synthesis.kubawo.now.sh/" target="_blank">Live demo on the Kovan testnet</a>
 
 - <a href="https://www.youtube.com/watch?v=s5Ef6Pg2evA" target="_blank">Walk-through the app with voice over</a>
 
